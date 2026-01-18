@@ -1,0 +1,14 @@
+
+***********************************
+           SMART-CAFE 2026         
+***********************************
+Pelanggan : paijem
+Tipe      : Gold Member
+-----------------------------------
+Espresso           : Rp    18.000
+Club Sandwich      : Rp    40.000
+-----------------------------------
+TOTAL BELANJA      : Rp    58.000
+POIN DIDAPAT       : 10 pts
+TOTAL SALDO POIN   : 10 pts
+***********************************
