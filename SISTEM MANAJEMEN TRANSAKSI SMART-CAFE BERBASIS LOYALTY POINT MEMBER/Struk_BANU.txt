@@ -1,0 +1,14 @@
+
+***********************************
+           SMART-CAFE 2026         
+***********************************
+Pelanggan : BANU
+Tipe      : Silver Member
+-----------------------------------
+Matcha Latte       : Rp    25.000
+Club Sandwich      : Rp    40.000
+-----------------------------------
+TOTAL BELANJA      : Rp    65.000
+POIN DIDAPAT       : 6 pts
+TOTAL SALDO POIN   : 6 pts
+***********************************

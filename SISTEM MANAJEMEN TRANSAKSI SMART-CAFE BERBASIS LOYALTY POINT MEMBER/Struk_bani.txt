@@ -1,0 +1,14 @@
+
+***********************************
+           SMART-CAFE 2026         
+***********************************
+Pelanggan : bani
+Tipe      : Gold Member
+-----------------------------------
+Matcha Latte       : Rp    25.000
+Ice Lemon Tea      : Rp    15.000
+-----------------------------------
+TOTAL BELANJA      : Rp    40.000
+POIN DIDAPAT       : 8 pts
+TOTAL SALDO POIN   : 8 pts
+***********************************
